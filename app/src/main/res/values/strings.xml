@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DawnTranslator</string>
+    <string name="accessibility_description">DawnTranslator — переводит английский текст на русский в Dawncaster и других играх. Работает офлайн, использует игровой словарь терминов.</string>
+</resources>
